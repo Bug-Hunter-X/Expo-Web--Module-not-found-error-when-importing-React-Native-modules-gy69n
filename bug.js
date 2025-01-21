@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `react-native-web` integration for web development.  It happens when trying to import or use modules that are only available in the React Native environment and not in the web environment. For example, using modules that deal with native device features will cause this error on web. 
